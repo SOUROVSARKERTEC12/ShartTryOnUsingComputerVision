@@ -18,7 +18,7 @@ Python is developed under an OSI-approved open source license, making it freely 
 - Robust Standard Libaray.
 - Object-Oriented and Procedure-Oriented
 
-Dillinger requires [python.py](https://www.python.org/downloads/release/python-370/) v3.7 to run.
+Python requires [python.py](https://www.python.org/downloads/release/python-370/) v3.7 to run.
 
 Install the dependencies to run the project.
 
